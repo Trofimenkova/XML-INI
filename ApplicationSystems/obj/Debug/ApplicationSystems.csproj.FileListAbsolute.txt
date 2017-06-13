@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\ApplicationSystems\ApplicationSystems\bin\Debug\ApplicationSystems.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\ApplicationSystems\ApplicationSystems\bin\Debug\ApplicationSystems.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ApplicationSystems\ApplicationSystems\bin\Debug\ApplicationSystems.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ApplicationSystems\ApplicationSystems\obj\Debug\ApplicationSystems.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ApplicationSystems\ApplicationSystems\obj\Debug\ApplicationSystems.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ApplicationSystems\ApplicationSystems\obj\Debug\ApplicationSystems.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ApplicationSystems\ApplicationSystems\obj\Debug\ApplicationSystems.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ApplicationSystems\ApplicationSystems\obj\Debug\ApplicationSystems.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ApplicationSystems\ApplicationSystems\obj\Debug\ApplicationSystems.pdb
